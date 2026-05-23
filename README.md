@@ -52,9 +52,12 @@ This guarantees that only one reservation operation can modify inventory for a p
 
 Expired reservations are automatically released using a cron endpoint.
 
+## Vercel Deployment Link : https://allo-inventory-ztgm.vercel.app/
+
 ## Local Setup
 
 Install dependencies:
 
 ```bash
 npm install
+
